@@ -73,6 +73,7 @@ ubicacion:   El Salvador 🌎
 
 [![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Anthony-Guardado)
 [![Instagram](https://img.shields.io/badge/Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=bf00ff)](https://www.instagram.com/anthoni_stiven/)
+[![Facebook](https://img.shields.io/badge/Facebook-1E3A8A?style=for-the-badge&logo=facebook&logoColor=93C5FD)](https://www.facebook.com/bartolome.simpson.9216778/)
 [![Discord](https://img.shields.io/badge/Discord-0f0c29?style=for-the-badge&logo=discord&logoColor=bf00ff)](https://discord.com/users/anthonyguardado__64731)
 
 </div>
