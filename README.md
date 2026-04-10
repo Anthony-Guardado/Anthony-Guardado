@@ -30,13 +30,13 @@ ubicacion:   El Salvador 🌎
 
 ### ◈ TECNOLOGÍAS ◈
 
-![MySQL](https://img.shields.io/badge/MySQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=00f5ff)
-![Laravel](https://img.shields.io/badge/Laravel-0f0c29?style=for-the-badge&logo=laravel&logoColor=ff4d6d)
-![PHP](https://img.shields.io/badge/PHP-0f0c29?style=for-the-badge&logo=php&logoColor=bf00ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=f0ff00)
-![Vue.js](https://img.shields.io/badge/Vue.js-0f0c29?style=for-the-badge&logo=vuedotjs&logoColor=00e676)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0f0c29?style=for-the-badge&logo=tailwindcss&logoColor=00f5ff)
-![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=ffe135)
+![MySQL](https://img.shields.io/badge/MySQL-870000?style=for-the-badge&logo=mysql&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-870000?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-870000?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-870000?style=for-the-badge&logo=javascript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-870000?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-870000?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-870000?style=for-the-badge&logo=python&logoColor=white)
 </div>
 
 ---
