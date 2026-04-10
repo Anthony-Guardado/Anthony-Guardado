@@ -63,7 +63,7 @@ ubicacion:   El Salvador 🌎
 
 ### ◈ STATS ◈
 
-![Jose's GitHub stats](https://streak-stats.demolab.com?user=Jose-Cordova&theme=radical&border=00f5ff&background=0f0c29&stroke=bf00ff&ring=00f5ff&fire=bf00ff&currStreakLabel=00f5ff)
+![Tony's GitHub stats](https://streak-stats.demolab.com?user=Anthony-Guardado&theme=radical&border=00f5ff&background=0f0c29&stroke=bf00ff&ring=00f5ff&fire=bf00ff&currStreakLabel=00f5ff)
 
 </div>
 
