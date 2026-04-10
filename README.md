@@ -30,7 +30,7 @@ ubicacion:   El Salvador 🌎
 
 ### ◈ TECNOLOGÍAS ◈
 
-![MySQL](https://img.shields.io/badge/MySQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=FF3131)
+![MySQL](https://img.shields.io/badge/MySQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=f0ff00)
 ![Laravel](https://img.shields.io/badge/Laravel-0f0c29?style=for-the-badge&logo=laravel&logoColor=ff4d6d)
 ![PHP](https://img.shields.io/badge/PHP-0f0c29?style=for-the-badge&logo=php&logoColor=bf00ff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=f0ff00)
