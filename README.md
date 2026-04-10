@@ -51,8 +51,8 @@ ubicacion:   El Salvador 🌎
 
 | 🚀 Proyecto | 📄 Descripción | 🔗 Link |
 |:-----------:|:--------------:|:-------:|
-| **ReadBooks** | Backend de app de lectura 📚 | [![Repo](https://img.shields.io/badge/ver_repo-0f0c29?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Jose-Cordova/__ReadBooks) |
-| **ReadBooks_frontend** | Frontend de app de lectura ⚡ | [![Repo](https://img.shields.io/badge/ver_repo-0f0c29?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Jose-Cordova/__ReadBooks_frontend) |
+| **rock-fitness** | Backend de app GYM 💻| [![Repo](https://img.shields.io/badge/ver_repo-0f0c29?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Anthony-Guardado/rock-fitness) |
+| **rock-fitness_ft** | Frontend de app GYM ⚡ | [![Repo](https://img.shields.io/badge/ver_repo-0f0c29?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Anthony-Guardado/rock-fitness_ft) |
 | **Karolina-Collection** | Colección web 🌸 | [![Repo](https://img.shields.io/badge/ver_repo-0f0c29?style=for-the-badge&logo=github&logoColor=bf00ff)](https://github.com/Jose-Cordova/Karolina-Collection) |
 
 </div>
