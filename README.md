@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:870000,50:c40000,100:ff0000&height=200&section=header&text=Anthony+Guardado&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dev+in+progress+%7C+Web+App+Lover&descAlignY=58&descSize=18&descColor=eeeeee)
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF3131&center=true&vCenter=true&width=500&lines=Hi+%3E%3A)%2C+soy+Tony!!;Full+Stack+Dev+in+progress...;Laravel+%7C+Vue.js+%7C+PHP;cat+lover+forever+%F0%9F%90%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF3131&center=true&vCenter=true&width=500&lines=Hi+%3E%3A)%2C+Soy+Tony!!;Full+Stack+Dev+in+progress...;Laravel+%7C+Vue.js+%7C+PHP;cat+lover+forever+%F0%9F%90%B1" alt="Typing SVG" />
 
 </div>
 
@@ -30,7 +30,7 @@ ubicacion:   El Salvador 🌎
 
 ### ◈ TECNOLOGÍAS ◈
 
-![MySQL](https://img.shields.io/badge/MySQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=00f5ff)
+![MySQL](https://img.shields.io/badge/MySQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=FF3131)
 ![Laravel](https://img.shields.io/badge/Laravel-0f0c29?style=for-the-badge&logo=laravel&logoColor=ff4d6d)
 ![PHP](https://img.shields.io/badge/PHP-0f0c29?style=for-the-badge&logo=php&logoColor=bf00ff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=f0ff00)
