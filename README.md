@@ -61,14 +61,6 @@ ubicacion:   El Salvador 🌎
 
 <div align="center">
 
-### ◈ STATS ◈
-
-![Tony's GitHub stats](https://streak-stats.demolab.com?user=Anthony-Guardado&theme=radical&border=00f5ff&background=0f0c29&stroke=bf00ff&ring=00f5ff&fire=bf00ff&currStreakLabel=00f5ff)
-
-</div>
-
-<div align="center">
-
 ### ◈ CONTACTO ◈
 
 [![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Anthony-Guardado)
